@@ -1,3 +1,6 @@
 # Learning about Version Control
 
 Author: Samrawit Mezgebo Tsegay
+
+Solving merge conflicts is easy!
+
